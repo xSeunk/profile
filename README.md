@@ -9,3 +9,13 @@ Hola soy Carlos Jesús Rosales Hidalgo, tengo 23 años de edad  y me gustan much
 ## Contactarme
 
 Pueden contactar conmigo para jugar o trabajar xD
+
+## Technologies
+
+- HTML
+- CSS
+- JAVASCRIPT
+
+## Skills
+
+- Coaching
